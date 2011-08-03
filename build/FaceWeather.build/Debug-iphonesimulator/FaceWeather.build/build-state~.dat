@@ -1,0 +1,539 @@
+TFaceWeather
+v7
+r0
+t333785919.765090
+cCheck dependencies
+cProcessInfoPlistFile /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/Info.plist FaceWeather/FaceWeather-Info.plist
+cProcessPCH /var/folders/LO/LOv4uzf7EECKIeC6osItXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FaceWeather-Prefix-amwfqscpfchblmctlgvlhuzzmoys/FaceWeather-Prefix.pch.gch FaceWeather/FaceWeather-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/main.o /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/FaceWeatherAppDelegate.o /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeatherAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/FaceWeatherAppDelegate_iPhone.o /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPhone/FaceWeatherAppDelegate_iPhone.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/FaceWeatherAppDelegate_iPad.o /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPad/FaceWeatherAppDelegate_iPad.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/ConnectionOperation.o /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/Shared/ConnectionOperation.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/LBXMLParserController.o /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/LBXMLParserController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/FaceWeatherViewController.o /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeatherViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/FaceWeather normal i386
+cGenerateDSYMFile /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app.dSYM /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/FaceWeather
+cCopyStringsFile /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/en.lproj/InfoPlist.strings FaceWeather/en.lproj/InfoPlist.strings
+cCompileXIB /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPhone/en.lproj/MainWindow_iPhone.xib
+cCompileXIB /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPad/en.lproj/MainWindow_iPad.xib
+cCpResource build/Debug-iphonesimulator/FaceWeather.app/toru_inoue.png FaceWeather/toru_inoue.png
+cCpResource build/Debug-iphonesimulator/FaceWeather.app/cloudy.png FaceWeather/cloudy.png
+cCpResource build/Debug-iphonesimulator/FaceWeather.app/fair.png FaceWeather/fair.png
+cCpResource build/Debug-iphonesimulator/FaceWeather.app/rain.png FaceWeather/rain.png
+cCpResource build/Debug-iphonesimulator/FaceWeather.app/snow.png FaceWeather/snow.png
+cCompileXIB /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeatherViewController.xib
+cCpResource build/Debug-iphonesimulator/FaceWeather.app/tan_go.png FaceWeather/tan_go.png
+cTouch /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004C980D580000000000000110
+t1285033304
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C872F53000000000029B1D0
+t1283927891
+s2732496
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C872FB1000000000029D590
+t1283927985
+s2741648
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C872FA40000000000001466
+t1283927972
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C8741500000000000000AA1
+t1283932496
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C8741C10000000000735310
+t1283932609
+s7557904
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004C87303C0000000000001ADD
+t1283928124
+s6877
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeather-Prefix.pch
+c000000004E3286490000000000000148
+t1311934025
+s328
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeatherAppDelegate.h
+c000000004E32864900000000000001DC
+t1311934025
+s476
+i<UIKit/UIKit.h>
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeatherAppDelegate.m
+c000000004E3286490000000000001967
+t1311934025
+s6503
+i"FaceWeatherAppDelegate.h"
+i"FaceWeatherViewController.h"
+i"ConnectionOperation.h"
+i"LBXMLParserController.h"
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeatherViewController.h
+c000000004E3286490000000000000141
+t1311934025
+s321
+i<UIKit/UIKit.h>
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeatherViewController.m
+c000000004E3286490000000000000717
+t1311934025
+s1815
+i"FaceWeatherViewController.h"
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeatherViewController.xib
+c000000004E3286490000000000003C40
+t1311934025
+s15424
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/LBXMLParserController.h
+c000000004E3286490000000000000154
+t1311934025
+s340
+i<Foundation/Foundation.h>
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/LBXMLParserController.m
+c000000004E3286490000000000000800
+t1311934025
+s2048
+i"LBXMLParserController.h"
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/Shared/ConnectionOperation.h
+c000000004E32864900000000000002BC
+t1311934025
+s700
+i<Foundation/Foundation.h>
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/Shared/ConnectionOperation.m
+c000000004E3286490000000000000D4C
+t1311934025
+s3404
+i"ConnectionOperation.h"
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/cloudy.png
+c000000004E3286490000000000000EC8
+t1311934025
+s3784
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/en.lproj/InfoPlist.strings
+c000000004E328649000000000000002D
+t1311934025
+s45
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/fair.png
+c000000004E3286490000000000000EC8
+t1311934025
+s3784
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPad/FaceWeatherAppDelegate_iPad.h
+c000000004E328649000000000000011F
+t1311934025
+s287
+i<UIKit/UIKit.h>
+i"FaceWeatherAppDelegate.h"
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPad/FaceWeatherAppDelegate_iPad.m
+c000000004E3286490000000000000116
+t1311934025
+s278
+i"FaceWeatherAppDelegate_iPad.h"
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPad/en.lproj/MainWindow_iPad.xib
+c000000004E3286490000000000003F27
+t1311934025
+s16167
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPhone/FaceWeatherAppDelegate_iPhone.h
+c000000004E3286490000000000000123
+t1311934025
+s291
+i<UIKit/UIKit.h>
+i"FaceWeatherAppDelegate.h"
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPhone/FaceWeatherAppDelegate_iPhone.m
+c000000004E328649000000000000011D
+t1311934025
+s285
+i"FaceWeatherAppDelegate_iPhone.h"
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPhone/en.lproj/MainWindow_iPhone.xib
+c000000004E3286490000000000001D7F
+t1311934025
+s7551
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/main.m
+c000000004E328649000000000000015C
+t1311934025
+s348
+i<UIKit/UIKit.h>
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/rain.png
+c000000004E3286490000000000000ECB
+t1311934025
+s3787
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/snow.png
+c000000004E3286490000000000000ECA
+t1311934025
+s3786
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/tan_go.png
+c000000004E3286490000000000015B34
+t1311934025
+s88884
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/toru_inoue.png
+c000000004E3286490000000000012451
+t1311934025
+s74833
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app
+t1312093119
+s442
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app.dSYM
+t1312093118
+s102
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/FaceWeather
+t1312093118
+s38476
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/FaceWeatherViewController.nib
+t1312093119
+s4051
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/Info.plist
+t1312093115
+s947
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/PkgInfo
+t1312093115
+s8
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/cloudy.png
+t1312093118
+s3784
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/en.lproj/InfoPlist.strings
+t1312093119
+s42
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/en.lproj/MainWindow_iPad.nib
+t1312093119
+s2289
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/en.lproj/MainWindow_iPhone.nib
+t1312093119
+s1542
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/fair.png
+t1312093118
+s3784
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/rain.png
+t1312093118
+s3787
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/snow.png
+t1312093118
+s3786
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/tan_go.png
+t1312093119
+s88884
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/toru_inoue.png
+t1312093118
+s74833
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/ConnectionOperation.o
+t1312093117
+s14208
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/FaceWeather.LinkFileList
+c000000004E34F3BB0000000000000491
+t1312093115
+s1169
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/FaceWeatherAppDelegate.o
+t1312093117
+s58884
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/FaceWeatherAppDelegate_iPad.o
+t1312093117
+s30196
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/FaceWeatherAppDelegate_iPhone.o
+t1312093117
+s30228
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/FaceWeatherViewController.o
+t1312093117
+s36228
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/LBXMLParserController.o
+t1312093117
+s14452
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/main.o
+t1312093117
+s3136
+
+N/var/folders/LO/LOv4uzf7EECKIeC6osItXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FaceWeather-Prefix-amwfqscpfchblmctlgvlhuzzmoys/FaceWeather-Prefix.pch.gch
+t1312093117
+s11992272
+
+NFaceWeather/FaceWeather-Info.plist
+c000000004E328649000000000000060C
+t1311934025
+s1548
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies333785915#333785915#0(0"0(0#1#0"8609124672#0"0#
+
+CCompileC build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/ConnectionOperation.o /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/Shared/ConnectionOperation.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s333785917.529808
+e333785917.622334
+r1
+xCompileC
+xbuild/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/ConnectionOperation.o
+x/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/Shared/ConnectionOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@107"Compile /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/Shared/ConnectionOperation.m333785917#333785917#0(0"0(0#0#99"/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/Shared/ConnectionOperation.m8608970016#2352"    cd /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-generated-files.hmap -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-own-target-headers.hmap -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-all-target-headers.hmap -iquote /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-project-headers.hmap -F/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/include -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/DerivedSources/i386 -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/LO/LOv4uzf7EECKIeC6osItXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FaceWeather-Prefix-amwfqscpfchblmctlgvlhuzzmoys/FaceWeather-Prefix.pch -c /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/Shared/ConnectionOperation.m -o /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/ConnectionOperation.o0#
+
+CCompileC build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/FaceWeatherAppDelegate.o /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeatherAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s333785917.357579
+e333785917.581676
+r1
+xCompileC
+xbuild/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/FaceWeatherAppDelegate.o
+x/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeatherAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@103"Compile /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeatherAppDelegate.m333785917#333785917#0(0"0(0#0#95"/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeatherAppDelegate.m8608527616#2351"    cd /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-generated-files.hmap -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-own-target-headers.hmap -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-all-target-headers.hmap -iquote /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-project-headers.hmap -F/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/include -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/DerivedSources/i386 -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/LO/LOv4uzf7EECKIeC6osItXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FaceWeather-Prefix-amwfqscpfchblmctlgvlhuzzmoys/FaceWeather-Prefix.pch -c /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeatherAppDelegate.m -o /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/FaceWeatherAppDelegate.o0#
+
+CCompileC build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/FaceWeatherAppDelegate_iPad.o /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPad/FaceWeatherAppDelegate_iPad.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s333785917.360427
+e333785917.542330
+r1
+xCompileC
+xbuild/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/FaceWeatherAppDelegate_iPad.o
+x/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPad/FaceWeatherAppDelegate_iPad.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@113"Compile /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPad/FaceWeatherAppDelegate_iPad.m333785917#333785917#0(0"0(0#0#105"/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPad/FaceWeatherAppDelegate_iPad.m8610650080#2366"    cd /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-generated-files.hmap -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-own-target-headers.hmap -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-all-target-headers.hmap -iquote /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-project-headers.hmap -F/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/include -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/DerivedSources/i386 -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/LO/LOv4uzf7EECKIeC6osItXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FaceWeather-Prefix-amwfqscpfchblmctlgvlhuzzmoys/FaceWeather-Prefix.pch -c /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPad/FaceWeatherAppDelegate_iPad.m -o /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/FaceWeatherAppDelegate_iPad.o0#
+
+CCompileC build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/FaceWeatherAppDelegate_iPhone.o /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPhone/FaceWeatherAppDelegate_iPhone.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s333785917.359020
+e333785917.544091
+r1
+xCompileC
+xbuild/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/FaceWeatherAppDelegate_iPhone.o
+x/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPhone/FaceWeatherAppDelegate_iPhone.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@117"Compile /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPhone/FaceWeatherAppDelegate_iPhone.m333785917#333785917#0(0"0(0#0#109"/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPhone/FaceWeatherAppDelegate_iPhone.m8595104768#2372"    cd /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-generated-files.hmap -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-own-target-headers.hmap -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-all-target-headers.hmap -iquote /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-project-headers.hmap -F/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/include -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/DerivedSources/i386 -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/LO/LOv4uzf7EECKIeC6osItXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FaceWeather-Prefix-amwfqscpfchblmctlgvlhuzzmoys/FaceWeather-Prefix.pch -c /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPhone/FaceWeatherAppDelegate_iPhone.m -o /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/FaceWeatherAppDelegate_iPhone.o0#
+
+CCompileC build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/FaceWeatherViewController.o /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeatherViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s333785917.544225
+e333785917.640841
+r1
+xCompileC
+xbuild/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/FaceWeatherViewController.o
+x/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeatherViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@106"Compile /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeatherViewController.m333785917#333785917#0(0"0(0#0#98"/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeatherViewController.m8607627040#2357"    cd /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-generated-files.hmap -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-own-target-headers.hmap -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-all-target-headers.hmap -iquote /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-project-headers.hmap -F/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/include -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/DerivedSources/i386 -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/LO/LOv4uzf7EECKIeC6osItXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FaceWeather-Prefix-amwfqscpfchblmctlgvlhuzzmoys/FaceWeather-Prefix.pch -c /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeatherViewController.m -o /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/FaceWeatherViewController.o0#
+
+CCompileC build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/LBXMLParserController.o /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/LBXMLParserController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s333785917.542486
+e333785917.621985
+r1
+xCompileC
+xbuild/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/LBXMLParserController.o
+x/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/LBXMLParserController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@102"Compile /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/LBXMLParserController.m333785917#333785917#0(0"0(0#0#94"/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/LBXMLParserController.m8608400352#2349"    cd /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-generated-files.hmap -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-own-target-headers.hmap -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-all-target-headers.hmap -iquote /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-project-headers.hmap -F/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/include -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/DerivedSources/i386 -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/LO/LOv4uzf7EECKIeC6osItXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FaceWeather-Prefix-amwfqscpfchblmctlgvlhuzzmoys/FaceWeather-Prefix.pch -c /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/LBXMLParserController.m -o /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/LBXMLParserController.o0#
+
+CCompileC build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/main.o /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s333785917.355067
+e333785917.529630
+r1
+xCompileC
+xbuild/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/main.o
+x/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@85"Compile /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/main.m333785917#333785917#0(0"0(0#0#77"/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/main.m8610708288#2315"    cd /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-generated-files.hmap -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-own-target-headers.hmap -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-all-target-headers.hmap -iquote /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-project-headers.hmap -F/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/include -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/DerivedSources/i386 -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/LO/LOv4uzf7EECKIeC6osItXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FaceWeather-Prefix-amwfqscpfchblmctlgvlhuzzmoys/FaceWeather-Prefix.pch -c /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/main.m -o /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeatherViewController.xib
+s333785918.431589
+e333785919.724728
+r1
+xCompileXIB
+x/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeatherViewController.xib
+lSLF07#2@52"CompileXIB FaceWeather/FaceWeatherViewController.xib333785918#333785919#0(0"0(0#0#100"/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeatherViewController.xib8607244544#676"    cd /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/FaceWeatherViewController.nib /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeatherViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPad/en.lproj/MainWindow_iPad.xib
+s333785918.424420
+e333785919.538490
+r1
+xCompileXIB
+x/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPad/en.lproj/MainWindow_iPad.xib
+lSLF07#2@56"CompileXIB FaceWeather/iPad/en.lproj/MainWindow_iPad.xib333785918#333785919#0(0"0(0#0#104"/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPad/en.lproj/MainWindow_iPad.xib8608493600#679"    cd /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/en.lproj/MainWindow_iPad.nib /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPad/en.lproj/MainWindow_iPad.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPhone/en.lproj/MainWindow_iPhone.xib
+s333785918.423829
+e333785919.538096
+r1
+xCompileXIB
+x/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPhone/en.lproj/MainWindow_iPhone.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPhone/en.lproj/MainWindow_iPhone.xib:4: warning: The 'window' outlet of 'App Delegate' is connected to 'Window' but 'window' is no longer defined on FaceWeatherAppDelegate_iPhone.
+lSLF07#2@60"CompileXIB FaceWeather/iPhone/en.lproj/MainWindow_iPhone.xib333785918#333785919#0(293"/* com.apple.ibtool.document.warnings *//Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPhone/en.lproj/MainWindow_iPhone.xib:4: warning: The 'window' outlet of 'App Delegate' is connected to 'Window' but 'window' is no longer defined on FaceWeatherAppDelegate_iPhone.1(22@130"The 'window' outlet of 'App Delegate' is connected to 'Window' but 'window' is no longer defined on FaceWeatherAppDelegate_iPhone.333785919#18446744073709551615#0#0(6@108"/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPhone/en.lproj/MainWindow_iPhone.xib333626825#4#0#4#0#0"0(0#0#108"/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPhone/en.lproj/MainWindow_iPhone.xib8608583872#685"    cd /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/en.lproj/MainWindow_iPhone.nib /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPhone/en.lproj/MainWindow_iPhone.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCopyStringsFile /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/en.lproj/InfoPlist.strings FaceWeather/en.lproj/InfoPlist.strings
+s333785918.422994
+e333785919.469374
+r1
+xCopyStringsFile
+x/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/en.lproj/InfoPlist.strings
+xFaceWeather/en.lproj/InfoPlist.strings
+lSLF07#2@43"Copy FaceWeather/en.lproj/InfoPlist.strings333785918#333785919#0(0"0(0#0#97"/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/en.lproj/InfoPlist.strings8608850848#539"    cd /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary FaceWeather/en.lproj/InfoPlist.strings --outdir /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/FaceWeather.app/cloudy.png FaceWeather/cloudy.png
+s333785918.426017
+e333785918.576697
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FaceWeather.app/cloudy.png
+xFaceWeather/cloudy.png
+lSLF07#2@27"Copy FaceWeather/cloudy.png333785918#333785918#0(0"0(0#0#81"/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/cloudy.png8608356704#530"    cd /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/cloudy.png /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app0#
+
+CCpResource build/Debug-iphonesimulator/FaceWeather.app/fair.png FaceWeather/fair.png
+s333785918.426847
+e333785918.576980
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FaceWeather.app/fair.png
+xFaceWeather/fair.png
+lSLF07#2@25"Copy FaceWeather/fair.png333785918#333785918#0(0"0(0#0#79"/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/fair.png8608085824#528"    cd /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/fair.png /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app0#
+
+CCpResource build/Debug-iphonesimulator/FaceWeather.app/rain.png FaceWeather/rain.png
+s333785918.427741
+e333785918.577452
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FaceWeather.app/rain.png
+xFaceWeather/rain.png
+lSLF07#2@25"Copy FaceWeather/rain.png333785918#333785918#0(0"0(0#0#79"/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/rain.png8607963616#528"    cd /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/rain.png /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app0#
+
+CCpResource build/Debug-iphonesimulator/FaceWeather.app/snow.png FaceWeather/snow.png
+s333785918.429658
+e333785918.577161
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FaceWeather.app/snow.png
+xFaceWeather/snow.png
+lSLF07#2@25"Copy FaceWeather/snow.png333785918#333785918#0(0"0(0#0#79"/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/snow.png8607611168#528"    cd /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/snow.png /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app0#
+
+CCpResource build/Debug-iphonesimulator/FaceWeather.app/tan_go.png FaceWeather/tan_go.png
+s333785919.469613
+e333785919.481860
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FaceWeather.app/tan_go.png
+xFaceWeather/tan_go.png
+lSLF07#2@27"Copy FaceWeather/tan_go.png333785919#333785919#0(0"0(0#0#81"/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/tan_go.png8607530784#530"    cd /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/tan_go.png /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app0#
+
+CCpResource build/Debug-iphonesimulator/FaceWeather.app/toru_inoue.png FaceWeather/toru_inoue.png
+s333785918.425144
+e333785918.577831
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/FaceWeather.app/toru_inoue.png
+xFaceWeather/toru_inoue.png
+lSLF07#2@31"Copy FaceWeather/toru_inoue.png333785918#333785918#0(0"0(0#0#85"/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/toru_inoue.png8608415296#534"    cd /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/toru_inoue.png /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app0#
+
+CGenerateDSYMFile /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app.dSYM /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/FaceWeather
+s333785918.262178
+e333785918.422904
+r1
+xGenerateDSYMFile
+x/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app.dSYM
+x/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/FaceWeather
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/FaceWeather.app.dSYM build/Debug-iphonesimulator/FaceWeather.app/FaceWeather333785918#333785918#0(0"0(0#0#114"/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/FaceWeather8609612416#455"    cd /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/FaceWeather -o /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app.dSYM0#
+
+CLd /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/FaceWeather normal i386
+s333785917.640972
+e333785918.262063
+r1
+xLd
+x/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/FaceWeather
+xnormal
+xi386
+lSLF07#2@119"Link /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/FaceWeather333785917#333785918#0(0"0(0#0#0"8608797504#1034"    cd /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator -F/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator -filelist /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/Objects-normal/i386/FaceWeather.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics -prebind -o /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/FaceWeather0#
+
+CProcessInfoPlistFile /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/Info.plist FaceWeather/FaceWeather-Info.plist
+s333785915.551414
+e333785915.662169
+r1
+xProcessInfoPlistFile
+x/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/Info.plist
+xFaceWeather/FaceWeather-Info.plist
+lSLF07#2@42"Process FaceWeather/FaceWeather-Info.plist333785915#333785915#0(0"0(0#0#93"/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeather-Info.plist32651513916883032#563"    cd /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility FaceWeather/FaceWeather-Info.plist -genpkginfo /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app/Info.plist0#
+
+CProcessPCH /var/folders/LO/LOv4uzf7EECKIeC6osItXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FaceWeather-Prefix-amwfqscpfchblmctlgvlhuzzmoys/FaceWeather-Prefix.pch.gch FaceWeather/FaceWeather-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s333785915.662557
+e333785917.354813
+r1
+xProcessPCH
+x/var/folders/LO/LOv4uzf7EECKIeC6osItXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FaceWeather-Prefix-amwfqscpfchblmctlgvlhuzzmoys/FaceWeather-Prefix.pch.gch
+xFaceWeather/FaceWeather-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@45"Precompile FaceWeather/FaceWeather-Prefix.pch333785915#333785917#0(0"0(0#0#93"/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeather-Prefix.pch8607964064#2183"    cd /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-generated-files.hmap -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-own-target-headers.hmap -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-all-target-headers.hmap -iquote /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/FaceWeather-project-headers.hmap -F/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/include -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/DerivedSources/i386 -I/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/FaceWeather.build/Debug-iphonesimulator/FaceWeather.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -c /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeather-Prefix.pch -o /var/folders/LO/LOv4uzf7EECKIeC6osItXU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FaceWeather-Prefix-amwfqscpfchblmctlgvlhuzzmoys/FaceWeather-Prefix.pch.gch0#
+
+CTouch /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app
+s333785919.724829
+e333785919.765034
+r1
+xTouch
+x/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app
+lSLF07#2@108"Touch /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app333785919#333785919#0(0"0(0#0#0"8610669568#322"    cd /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug-iphonesimulator/FaceWeather.app0#
+

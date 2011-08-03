@@ -1,0 +1,126 @@
+// !$*UTF8*$!
+{
+	211077A013E0005600D9BE97 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 617F180E13E52AF300A61BE0 /* FaceWeather */;
+		activeTarget = 211077A813E0005600D9BE97 /* FaceWeather */;
+		addToTargets = (
+			211077A813E0005600D9BE97 /* FaceWeather */,
+		);
+		codeSenseManager = 617F181E13E52B1300A61BE0 /* Code sense */;
+		executables = (
+			617F180E13E52AF300A61BE0 /* FaceWeather */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					990,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 333791191;
+			PBXWorkspaceStateSaveDate = 333791191;
+		};
+		perUserProjectItems = {
+			618253A113E53FE100290379 /* PBXTextBookmark */ = 618253A113E53FE100290379 /* PBXTextBookmark */;
+			61E5D92F13E53CEA00A362FF /* PBXTextBookmark */ = 61E5D92F13E53CEA00A362FF /* PBXTextBookmark */;
+		};
+		sourceControlManager = 617F181D13E52B1300A61BE0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	211077A813E0005600D9BE97 /* FaceWeather */ = {
+		activeExec = 0;
+		executables = (
+			617F180E13E52AF300A61BE0 /* FaceWeather */,
+		);
+	};
+	211077D113E0005700D9BE97 /* FaceWeatherTests */ = {
+		activeExec = 0;
+	};
+	21C23D1113E13F6B003DAFF9 /* FaceWeatherViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1168, 1226}}";
+			sepNavSelRange = "{210, 0}";
+			sepNavVisRange = "{0, 1109}";
+		};
+	};
+	617F180E13E52AF300A61BE0 /* FaceWeather */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = FaceWeather;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	617F181D13E52B1300A61BE0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	617F181E13E52B1300A61BE0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	618253A113E53FE100290379 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 21C23D1113E13F6B003DAFF9 /* FaceWeatherViewController.m */;
+		name = "FaceWeatherViewController.m: 11";
+		rLen = 0;
+		rLoc = 210;
+		rType = 0;
+		vrLen = 1109;
+		vrLoc = 0;
+	};
+	61E5D92F13E53CEA00A362FF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 21C23D1113E13F6B003DAFF9 /* FaceWeatherViewController.m */;
+		name = "FaceWeatherViewController.m: 11";
+		rLen = 0;
+		rLoc = 210;
+		rType = 0;
+		vrLen = 1098;
+		vrLoc = 0;
+	};
+}

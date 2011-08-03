@@ -1,0 +1,152 @@
+TFaceWeather
+v7
+r1
+cCheck dependencies
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeatherViewController.xib
+c000000004E3286490000000000003C40
+t1311934025
+s15424
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/cloudy.png
+c000000004E3286490000000000000EC8
+t1311934025
+s3784
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/en.lproj/InfoPlist.strings
+c000000004E328649000000000000002D
+t1311934025
+s45
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/fair.png
+c000000004E3286490000000000000EC8
+t1311934025
+s3784
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPad/en.lproj/MainWindow_iPad.xib
+c000000004E3286490000000000003F27
+t1311934025
+s16167
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPhone/en.lproj/MainWindow_iPhone.xib
+c000000004E3286490000000000001D7F
+t1311934025
+s7551
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/rain.png
+c000000004E3286490000000000000ECB
+t1311934025
+s3787
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/snow.png
+c000000004E3286490000000000000ECA
+t1311934025
+s3786
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/tan_go.png
+c000000004E3286490000000000015B34
+t1311934025
+s88884
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/toru_inoue.png
+c000000004E3286490000000000012451
+t1311934025
+s74833
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug/FaceWeather.app
+t2
+s0
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug/FaceWeather.app/Contents/Info.plist
+t2
+s0
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug/FaceWeather.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug/FaceWeather.app/Contents/Resources/FaceWeatherViewController.nib
+t2
+s0
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug/FaceWeather.app/Contents/Resources/cloudy.png
+t2
+s0
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug/FaceWeather.app/Contents/Resources/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug/FaceWeather.app/Contents/Resources/en.lproj/MainWindow_iPad.nib
+t2
+s0
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug/FaceWeather.app/Contents/Resources/en.lproj/MainWindow_iPhone.nib
+t2
+s0
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug/FaceWeather.app/Contents/Resources/fair.png
+t2
+s0
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug/FaceWeather.app/Contents/Resources/rain.png
+t2
+s0
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug/FaceWeather.app/Contents/Resources/snow.png
+t2
+s0
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug/FaceWeather.app/Contents/Resources/tan_go.png
+t2
+s0
+
+N/Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug/FaceWeather.app/Contents/Resources/toru_inoue.png
+t2
+s0
+
+NFaceWeather/FaceWeather-Info.plist
+c000000004E328649000000000000060C
+t1311934025
+s1548
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies333785845#333785845#0(63"[BEROR]error: There is no SDK with the name or path 'iphoneos'1(4@55"error: There is no SDK with the name or path 'iphoneos'333785845#18446744073709551615#0#0(1@0"0(0#1#0"27303506538332260#0"0#
+
+CCompileXIB /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/FaceWeatherViewController.xib
+r0
+
+CCompileXIB /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPad/en.lproj/MainWindow_iPad.xib
+r0
+
+CCompileXIB /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/FaceWeather/iPhone/en.lproj/MainWindow_iPhone.xib
+r0
+
+CCopyStringsFile /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug/FaceWeather.app/Contents/Resources/en.lproj/InfoPlist.strings FaceWeather/en.lproj/InfoPlist.strings
+r0
+
+CCpResource build/Debug/FaceWeather.app/Contents/Resources/cloudy.png FaceWeather/cloudy.png
+r0
+
+CCpResource build/Debug/FaceWeather.app/Contents/Resources/fair.png FaceWeather/fair.png
+r0
+
+CCpResource build/Debug/FaceWeather.app/Contents/Resources/rain.png FaceWeather/rain.png
+r0
+
+CCpResource build/Debug/FaceWeather.app/Contents/Resources/snow.png FaceWeather/snow.png
+r0
+
+CCpResource build/Debug/FaceWeather.app/Contents/Resources/tan_go.png FaceWeather/tan_go.png
+r0
+
+CCpResource build/Debug/FaceWeather.app/Contents/Resources/toru_inoue.png FaceWeather/toru_inoue.png
+r0
+
+CProcessInfoPlistFile /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug/FaceWeather.app/Contents/Info.plist FaceWeather/FaceWeather-Info.plist
+r0
+
+CTouch /Users/Yasufumi/Desktop/KISSAKI-GitHub-FaceWeather-6747018/build/Debug/FaceWeather.app
+r0
+
